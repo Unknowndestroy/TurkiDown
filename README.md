@@ -4,3 +4,5 @@ Reveal the real bass of an song!
 Requirements:
 yt-dlp
 ffmpeg
+
+# Termux Not Supported
